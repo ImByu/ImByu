@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ImByu&label=Profile%20views&color=443c42&style=plastic" alt="ImByu" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ImByu" alt="ImByu" /></a> </p>
 
-# I'm [ByuOfc](https://github.com/Paquito1923) ! 
+# I'm [ByuOfc](https://bayuofficial.my.id) ! 
 ###  I'm Just An Ordinary Bot Developer :ghost:
 
 
